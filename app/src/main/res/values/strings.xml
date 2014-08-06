@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">TestControl</string>
-    <string name="hello_world">Scene1</string>
+    <string name="hello_world">Scene1!!</string>
     <string name="action_settings">Settings</string>
     <string name="switch_on">SWITCH_ON</string>
     <string name="switch_off">SWITCH_OFF</string>
